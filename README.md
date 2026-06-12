@@ -11,8 +11,6 @@
   - [Group Stage Simulation](#group-stage-simulation)
   - [Knockout Stage Prediction](#knockout-stage-prediction)
 - [Validation](#validation)
-- [Results](#results)
-- [Conclusion](#conclusion)
 
 ## Introduction
 
